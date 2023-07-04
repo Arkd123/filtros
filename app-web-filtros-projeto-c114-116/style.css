@@ -1,0 +1,6 @@
+canvas {
+    border:2px dashed black;
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    }
